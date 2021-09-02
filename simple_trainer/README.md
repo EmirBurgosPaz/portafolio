@@ -4,4 +4,4 @@ Es posible realziar modificaciones para utilzir el detector de tal manera que se
 
 Se recomienda hacer algo parecido a la iamgen siguiente:
 
-![alt text](\scene\scene.jpg)
+![alt text](https://github.com/EmirBurgosPaz/portafolio/blob/main/simple_trainer/scene/scene.jpg)

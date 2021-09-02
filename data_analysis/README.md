@@ -1,0 +1,1 @@
+Este es un ejercicio de analisis de datos que aplique a la basa de datos de pasajeros del titanic, esta basa de datos se usa para realizar pruebas con diferentes sistemas de machine learning.

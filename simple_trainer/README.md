@@ -7,7 +7,7 @@ Se recomienda hacer algo parecido a la imagen siguiente:
 ![alt text](https://github.com/EmirBurgosPaz/portafolio/blob/main/simple_trainer/scene/scene.jpg)
 
 
-Donde creamos un escenario que nos eprmita aprovechar al maximo dos niveles de ilumincacion uno perpendidcular a la camara y otro paralelo a esta, donde aun teniendo uan camara de mala calidad, podemos obtener una imagen clara con poco brillo, como la sigueinte:
+Donde creamos un escenario que nos permita aprovechar al maximo dos niveles de ilumincacion uno perpendidcular a la camara y otro paralelo a esta, donde aun teniendo uan camara de mala calidad, podemos obtener una imagen clara con poco brillo, como la sigueinte:
 
 
 ![alt text](https://github.com/EmirBurgosPaz/portafolio/blob/main/simple_trainer/scene/reality.jpg)
